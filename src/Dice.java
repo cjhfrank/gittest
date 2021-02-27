@@ -13,6 +13,7 @@ public class Dice {
 	        c[j]++;
 	        }
         
+	System.out.println("modify for github : ");
         System.out.println();
         System.out.println("出現統計 : ");
         
